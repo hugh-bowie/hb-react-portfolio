@@ -12,6 +12,9 @@ In the project directory, you can run:
 #### Run
 
 `npm install bootstrap react react-dom react-router-dom react-scripts web-vitals`
+
+#### Then
+
 `npm run build` `npm run start`
 
 ### `npm start`
