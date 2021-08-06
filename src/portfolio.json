@@ -1,18 +1,34 @@
 [
-    {
-    "id": 1,
-    "name": "Budget Tracker",
-    "image": "https://github.com/hugh-bowie/hb-react-portfolio/src/assets/images/budget-tracker.PNG",
-    "github": "https://github.com/hugh-bowie/Budget-Tracker",
-    "deploy": "https://hb-budget-tracker.herokuapp.com/",
-    "topics": "node, nodemon, express, mongodb, mongoose, indexeddb, compression, morgan"
-    },
-    {
-    "id": 2,
-    "name": "Tech Blog MVC",
-    "image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/master/src/assets/images/tech-blog.PNG",
-    "github": "https://github.com/hugh-bowie/mvc-tech-blog",
-    "deploy": "https://hidden-falls-22101.herokuapp.com/",
-    "topics": "model-view-controller, bcrypt, bulma, connect-session-sequelize, dotenv, express, express-handlebars, express-session, mysql2, sequelize"
-    }
+	{
+		"id": 1,
+		"name": "Budget Tracker",
+		"image": "https://github.com/hugh-bowie/hb-react-portfolio/src/assets/images/budget-tracker.PNG",
+		"github": "https://github.com/hugh-bowie/Budget-Tracker",
+		"deploy": "https://hb-budget-tracker.herokuapp.com/",
+		"topics": "node, nodemon, express, mongodb, mongoose, indexeddb, compression, morgan"
+	},
+	{
+		"id": 2,
+		"name": "Tech Blog MVC",
+		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/master/src/assets/images/tech-blog.PNG",
+		"github": "https://github.com/hugh-bowie/mvc-tech-blog",
+		"deploy": "https://hidden-falls-22101.herokuapp.com/",
+		"topics": "model-view-controller, bcrypt, bulma, connect-session-sequelize, dotenv, express, express-handlebars, express-session, mysql2, sequelize"
+	},
+	{
+		"id": 3,
+		"name": "Social Network API",
+		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/master/src/assets/images/social-net-api.gif",
+		"github": "https://github.com/hugh-bowie/social-network-api",
+		"deploy": "https://hugh-bowie.github.io/social-network-api/",
+		"topics": "javascript, express, moment, mongoose, dotenv, node"
+	},
+	{
+		"id": 4,
+		"name": "Weather Dashboard App",
+		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/master/src/assets/images/weather-dashboard.png",
+		"github": "https://github.com/hugh-bowie/weather-dashboard",
+		"deploy": "https://hugh-bowie.github.io/weather-dashboard/#",
+		"topics": "javascript, bootstrap, jquery, html5, moment, openweather-api"
+	}
 ]
