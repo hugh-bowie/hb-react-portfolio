@@ -17,7 +17,7 @@ function About() {
 					<p>
 						View full{' '}
 						<a href='#/resume' class='link'>
-							resume
+							Resume
 						</a>
 					</p>
 				</div>

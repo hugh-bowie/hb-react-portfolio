@@ -15,9 +15,9 @@ function Footer() {
 			<p>
 				&copy; Hugh Bowie |{' '}
 				<a href='https://github.com/hugh-bowie/hb-react-portfolio/raw/master/src/assets/hb-resume.pdf' class='link'>
-					download resume
+					Download Resume
 				</a>{' '}
-				| <a href='https://coolors.co/f06543-e8e9eb-e0dfd5-313638-f09d51'>color palette</a> | made with{' '}
+				| <a href='https://coolors.co/dad7cd-cfd6c2-cfdece-38573d-101915'>Color Palette Used</a> | Made With{' '}
 				<img id='react-icon' src='https://img.icons8.com/color/48/000000/react-native.png' alt='React' />
 			</p>
 		</div>
