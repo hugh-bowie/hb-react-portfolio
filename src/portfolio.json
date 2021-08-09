@@ -36,7 +36,7 @@
 		"name": "Tech Blog MVC",
 		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/tech-blog-mvc.PNG",
 		"github": "https://github.com/hugh-bowie/mvc-tech-blog",
-		"deploy": "https://hidden-falls-22101.herokuapp.com/",
+		"deploy": "https://hb-tech-blog-mvc.herokuapp.com/login",
 		"topics": "Express, Sequelize, Express-Handlebars, Mysql2, Express-Session, Bcrypt, Bulma"
 	},
 	{
