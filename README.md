@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/express-orange" />
     <img src="https://img.shields.io/badge/React-blue"  />
     <img src="https://img.shields.io/badge/mongoose-red"  />
-    <img src="https://img.shields.io/badge/indexedDB-blue"  />
+    <img src="https://img.shields.io/badge/indexeddb-blue"  />
 </p>
 
 ## 📓 Description
