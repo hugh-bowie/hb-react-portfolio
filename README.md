@@ -8,11 +8,13 @@
 
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/node-33cc33" />
-    <img src="https://img.shields.io/badge/express-orange" />
     <img src="https://img.shields.io/badge/React-0099ff"  />
-    <img src="https://img.shields.io/badge/mongoose-red"  />
-    <img src="https://img.shields.io/badge/bootstrap-blueviolet"  />
+    <img src="https://img.shields.io/badge/Node-33cc33" />
+    <img src="https://img.shields.io/badge/Express-orange" />
+    <img src="https://img.shields.io/badge/React-Router-99ccff"  />
+    <img src="https://img.shields.io/badge/Jest-Dom-99ff99"  />
+    <img src="https://img.shields.io/badge/Bootstrap-blueviolet"  />
+    <img src="https://img.shields.io/badge/Web-Vitals-ff4d4d"  />
 </p>
 
 ## 📓 Description
