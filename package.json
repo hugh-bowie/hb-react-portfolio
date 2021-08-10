@@ -42,5 +42,17 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "description": "<h1 align=\"center\">React Developer Portfolio🚀</h1>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugh-bowie/react-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugh-bowie/react-portfolio/issues"
   }
 }
