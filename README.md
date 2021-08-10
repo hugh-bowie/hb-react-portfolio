@@ -8,11 +8,11 @@
 
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/javascript-yellow" />
+    <img src="https://img.shields.io/badge/node-33cc33" />
     <img src="https://img.shields.io/badge/express-orange" />
     <img src="https://img.shields.io/badge/React-0099ff"  />
     <img src="https://img.shields.io/badge/mongoose-red"  />
-    <img src="https://img.shields.io/badge/indexeddb-blue"  />
+    <img src="https://img.shields.io/badge/bootstrap-blueviolet"  />
 </p>
 
 ## 📓 Description
@@ -20,7 +20,7 @@
 This project was bootstrapped with Create React App. A personal full stack
 development portfolio.
 
-#### ![react-portfolio.herokuapp](https://react-portfolio-hb.herokuapp.com/#/portfolio)
+#### [react-portfolio.herokuapp](https://react-portfolio-hb.herokuapp.com/#/portfolio)
 
 ## 🎬 Screenshot
 
