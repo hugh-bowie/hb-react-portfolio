@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/badge/React-0099ff"  />
     <img src="https://img.shields.io/badge/Node-33cc33" />
     <img src="https://img.shields.io/badge/Express-orange" />
-    <img src="https://img.shields.io/badge/React-Router-99ccff"  />
-    <img src="https://img.shields.io/badge/Jest-Dom-99ff99"  />
+    <img src="https://img.shields.io/badge/React_Router-99ccff"  />
+    <img src="https://img.shields.io/badge/Jest_Dom-99ff99"  />
     <img src="https://img.shields.io/badge/Bootstrap-blueviolet"  />
-    <img src="https://img.shields.io/badge/Web-Vitals-ff4d4d"  />
+    <img src="https://img.shields.io/badge/Web_Vitals-ff4d4d"  />
 </p>
 
 ## 📓 Description
