@@ -20,11 +20,11 @@
 This project was bootstrapped with Create React App. A personal full stack
 development portfolio.
 
-#### ![react-portfolio.herokuapp](https://hb-react-portfolio.herokuapp.com/)
+#### ![react-portfolio.herokuapp](https://react-portfolio-hb.herokuapp.com/#/portfolio)
 
 ## 🎬 Screenshot
 
-![react-portfolio](./public/assets/react-portfolio.PNG)
+![react-portfolio](./src/assets/images/react-portfolio.PNG)
 
 ## 🃏 User Story
 
