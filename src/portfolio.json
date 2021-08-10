@@ -50,7 +50,7 @@
 	{
 		"id": 7,
 		"name": "Express Note Taker",
-		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/password-generator.PNG",
+		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/note-taker.gif",
 		"github": "https://github.com/hugh-bowie/note-taker",
 		"deploy": "https://hb-note-taker.herokuapp.com/",
 		"topics": "Node, Express, CSS, Nodemon"
