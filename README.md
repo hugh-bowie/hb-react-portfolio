@@ -69,6 +69,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## 📋 Table of Contents
 
 - [Description](#description)
+- [Screenshot](#Screenshot)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Table of Contents](#table-of-contents)

@@ -26,7 +26,7 @@
 	{
 		"id": 4,
 		"name": "Weather Dashboard App",
-		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/weather-dashboard.png",
+		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/weather-dashboard.gif",
 		"github": "https://github.com/hugh-bowie/weather-dashboard",
 		"deploy": "https://hugh-bowie.github.io/weather-dashboard/#",
 		"topics": "Javascript, Openweather-API, Bootstrap, Jquery, Html5, Moment"
