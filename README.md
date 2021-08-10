@@ -2,7 +2,6 @@
 
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/hugh-bowie/react-portfolio" />
-    <!-- <img src="https://img.shields.io/tokei/lines/github/hugh-bowie/react-portfolio" /> -->
     <img src="https://img.shields.io/github/languages/top/hugh-bowie/react-portfolio"  />
     <img src="https://img.shields.io/github/issues/hugh-bowie/react-portfolio" />
     <img src="https://img.shields.io/github/last-commit/hugh-bowie/react-portfolio" >
@@ -11,7 +10,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/javascript-yellow" />
     <img src="https://img.shields.io/badge/express-orange" />
-    <img src="https://img.shields.io/badge/React-blue"  />
+    <img src="https://img.shields.io/badge/React-0099ff"  />
     <img src="https://img.shields.io/badge/mongoose-red"  />
     <img src="https://img.shields.io/badge/indexeddb-blue"  />
 </p>
