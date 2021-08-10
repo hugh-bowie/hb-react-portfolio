@@ -2,11 +2,11 @@
 
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/hugh-bowie/react-portfolio" />
-    <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/hugh-bowie/react-portfolio?style=plastic">
     <img src="https://img.shields.io/tokei/lines/github/hugh-bowie/react-portfolio" />
     <img src="https://img.shields.io/github/languages/top/hugh-bowie/react-portfolio"  />
     <img src="https://img.shields.io/github/issues/hugh-bowie/react-portfolio" />
     <img src="https://img.shields.io/github/last-commit/hugh-bowie/react-portfolio" >
+
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/javascript-yellow" />
