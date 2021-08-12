@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"name": "Budget Tracker",
-		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/budget-tracker.png",
+		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/budget-tracker.gif",
 		"github": "https://github.com/hugh-bowie/Budget-Tracker",
 		"deploy": "https://hb-budget-tracker.herokuapp.com/",
 		"topics": "Node Express Mongodb Mongoose IndexedDB Compression Nodemon"
