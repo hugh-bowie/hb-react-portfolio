@@ -10,7 +10,7 @@
 	{
 		"id": 2,
 		"name": "Instagram Puppeteer Automation",
-		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/ig.gif",
+		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/ig-sbj.gif",
 		"github": "https://github.com/hugh-bowie/puppeteer-ig-bot",
 		"deploy": "https://hugh-bowie.github.io/puppeteer-ig-bot/",
 		"topics": "Puppeteer Node-Schedule Puppeteer-Extra-Plugin-Stealth Dotenv"
