@@ -26,7 +26,8 @@ development portfolio.
 
 ## 🎬 Screenshot
 
-![react-portfolio](./src/assets/images/react-portfolio.PNG)
+![react-portfolio-mobile](./src/assets/images/react-portfolio-mobile-2.gif)
+![react-portfolio](./src/assets/images/react-portfolio.gif)
 
 ## 🃏 User Story
 
