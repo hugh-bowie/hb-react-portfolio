@@ -2,10 +2,10 @@
 	{
 		"id": 1,
 		"name": "Budget Tracker",
-		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/budget-tracker.png",
+		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/budget-tracker.gif",
 		"github": "https://github.com/hugh-bowie/Budget-Tracker",
 		"deploy": "https://hb-budget-tracker.herokuapp.com/",
-		"topics": "Node Express Mongodb Mongoose IndexedDB Compression Nodemon"
+		"topics": "Express Mongoose IndexedDB Compression"
 	},
 	{
 		"id": 2,
@@ -21,7 +21,7 @@
 		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/social-net-api.gif",
 		"github": "https://github.com/hugh-bowie/social-network-api",
 		"deploy": "https://hugh-bowie.github.io/social-network-api/",
-		"topics": "Node Mongoose Javascript Express Moment Dotenv"
+		"topics": "Express Mongoose Moment Node Dotenv"
 	},
 	{
 		"id": 4,
@@ -29,7 +29,7 @@
 		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/note-taker.gif",
 		"github": "https://github.com/hugh-bowie/note-taker",
 		"deploy": "https://hb-note-taker.herokuapp.com/",
-		"topics": "Node Express CSS Nodemon"
+		"topics": "Express Node CSS Nodemon"
 	},
 	{
 		"id": 5,
@@ -37,7 +37,7 @@
 		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/weather-dashboard.gif",
 		"github": "https://github.com/hugh-bowie/weather-dashboard",
 		"deploy": "https://hugh-bowie.github.io/weather-dashboard/#",
-		"topics": "Javascript Openweather-API Bootstrap Jquery Html5 Moment"
+		"topics": "Openweather-API Jquery Bootstrap Html5 Moment"
 	},
 	{
 		"id": 6,
@@ -53,7 +53,7 @@
 		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/tech-blog-mvc.PNG",
 		"github": "https://github.com/hugh-bowie/mvc-tech-blog",
 		"deploy": "https://hb-tech-blog-mvc.herokuapp.com/login",
-		"topics": "Express Sequelize Handlebars Mysql2 Express-Session Bcrypt Bulma"
+		"topics": "Express Mysql2 Handlebars Sequelize Bcrypt"
 	},
 	{
 		"id": 8,
