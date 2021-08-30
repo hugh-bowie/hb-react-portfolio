@@ -25,11 +25,11 @@
 	},
 	{
 		"id": 3,
-		"name": "Social Network API",
-		"image": "https://github.com/hugh-bowie/react-portfolio/raw/main/src/assets/images/social-net-api.gif",
-		"github": "https://github.com/hugh-bowie/social-network-api",
-		"deploy": "https://hugh-bowie.github.io/social-network-api/",
-		"topics": "Express Mongoose Moment Node Dotenv"
+		"name": "React Redux Stripe App",
+		"image": "https://github.com/hugh-bowie/react-portfolio/raw/main/src/assets/images/Shop-Shop.gif",
+		"github": "https://github.com/hugh-bowie/react-redux-store",
+		"deploy": "https://hb-redux-store.herokuapp.com/",
+		"topics": "React Redux Express Mongoose Node"
 	},
 	{
 		"id": 4,
