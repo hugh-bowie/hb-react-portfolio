@@ -1,64 +1,64 @@
 [
 	{
+		"id": 3,
+		"name": "React Redux Stripe App",
+		"image": "https://github.com/hugh-bowie/react-portfolio/raw/main/src/assets/images/Shop-Shop.gif",
+		"github": "https://github.com/hugh-bowie/react-redux-store",
+		"deploy": "https://hb-redux-store.herokuapp.com/",
+		"topics": "React Redux Express Mongoose Node"
+	},
+	{
 		"id": 1,
 		"name": "Budget Tracker",
-		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/budget-tracker.png",
+		"image": "https://github.com/hugh-bowie/react-portfolio/raw/main/src/assets/images/budget-tracker.gif",
 		"github": "https://github.com/hugh-bowie/Budget-Tracker",
 		"deploy": "https://hb-budget-tracker.herokuapp.com/",
-		"topics": "Node Express Mongodb Mongoose IndexedDB Compression Nodemon"
+		"topics": "Express Mongoose IndexedDB Compression"
 	},
 	{
 		"id": 2,
 		"name": "Instagram Puppeteer Automation",
-		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/dinkin-2.gif",
+		"image": "https://github.com/hugh-bowie/react-portfolio/raw/main/src/assets/images/ig-sbj.gif",
 		"github": "https://github.com/hugh-bowie/puppeteer-ig-bot",
 		"deploy": "https://hugh-bowie.github.io/puppeteer-ig-bot/",
 		"topics": "Puppeteer Node-Schedule Puppeteer-Extra-Plugin-Stealth Dotenv"
 	},
 	{
-		"id": 3,
-		"name": "Social Network API",
-		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/social-net-api.gif",
-		"github": "https://github.com/hugh-bowie/social-network-api",
-		"deploy": "https://hugh-bowie.github.io/social-network-api/",
-		"topics": "Node Mongoose Javascript Express Moment Dotenv"
-	},
-	{
 		"id": 4,
 		"name": "Express Note Taker",
-		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/note-taker.gif",
+		"image": "https://github.com/hugh-bowie/react-portfolio/raw/main/src/assets/images/note-taker.gif",
 		"github": "https://github.com/hugh-bowie/note-taker",
 		"deploy": "https://hb-note-taker.herokuapp.com/",
-		"topics": "Node Express CSS Nodemon"
+		"topics": "Express Node CSS Nodemon"
 	},
 	{
 		"id": 5,
 		"name": "Weather Dashboard App",
-		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/weather-dashboard.gif",
+		"image": "https://github.com/hugh-bowie/react-portfolio/raw/main/src/assets/images/weather-dashboard.gif",
 		"github": "https://github.com/hugh-bowie/weather-dashboard",
 		"deploy": "https://hugh-bowie.github.io/weather-dashboard/#",
-		"topics": "Javascript Openweather-API Bootstrap Jquery Html5 Moment"
+		"topics": "Openweather-API Jquery Bootstrap Html5 Moment"
+	},
+	{
+		"id": 10,
+		"name": "ePay",
+		"image": "https://github.com/hugh-bowie/react-portfolio/raw/main/src/assets/images/epay.PNG",
+		"github": "https://github.com/anjubimal/Project3",
+		"deploy": "https://frozen-atoll-82959.herokuapp.com/",
+		"topics": "React MongoDB Express graphQL"
 	},
 	{
 		"id": 6,
 		"name": "E-Commerce Back End",
-		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/tags.gif",
+		"image": "https://github.com/hugh-bowie/react-portfolio/raw/main/src/assets/images/tags.gif",
 		"github": "https://github.com/hugh-bowie/E-commerce-backend",
 		"deploy": "https://github.com/hugh-bowie/E-commerce-backend",
 		"topics": "Javascript CSS Html5"
 	},
 	{
-		"id": 7,
-		"name": "Tech Blog MVC",
-		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/tech-blog-mvc.PNG",
-		"github": "https://github.com/hugh-bowie/mvc-tech-blog",
-		"deploy": "https://hb-tech-blog-mvc.herokuapp.com/login",
-		"topics": "Express Sequelize Handlebars Mysql2 Express-Session Bcrypt Bulma"
-	},
-	{
 		"id": 8,
 		"name": "Strong Password Generator",
-		"image": "https://github.com/hugh-bowie/hb-react-portfolio/raw/main/src/assets/images/password-generator.PNG",
+		"image": "https://github.com/hugh-bowie/react-portfolio/raw/main/src/assets/images/password-generator.PNG",
 		"github": "https://github.com/hugh-bowie/password-generator",
 		"deploy": "https://hugh-bowie.github.io/password-generator/",
 		"topics": "Javascript CSS Html5"

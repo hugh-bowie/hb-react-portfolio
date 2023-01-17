@@ -18,7 +18,7 @@ function Resume() {
 					</p>
 					<p>
 						Download my full{' '}
-						<a href='https://github.com/hugh-bowie/hb-react-portfolio/raw/master/src/assets/hb-resume.pdf' class='link'>
+						<a href='https://github.com/hugh-bowie/react-portfolio/raw/main/src/assets/images/hb-resume.pdf' class='link'>
 							Resume here
 						</a>
 						<br></br>
@@ -34,7 +34,10 @@ function Resume() {
 
 				<div id='front-back' class='mt-5'>
 					<h2>Back End Exp</h2>
-					<p>Node.js, Express.js, SQL ( sqlite, mySQL, postgreSQL ), Sequelize, NoSQL ( MongoDB, Mongoose ), Python, Django, API's ( third-party, RESTful, server-side ), Templating ( Handlebars )</p>
+					<p>
+						Node.js, Express.js, SQL ( sqlite, mySQL, postgreSQL ), Sequelize, NoSQL ( MongoDB, Mongoose ), Python, Django, API's ( third-party, RESTful, server-side ), Templating (
+						Handlebars )
+					</p>
 				</div>
 			</div>
 		</section>
