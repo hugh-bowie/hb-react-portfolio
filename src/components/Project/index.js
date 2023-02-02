@@ -1,4 +1,5 @@
 import React from 'react';
+import { Component } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 // Individual Card build-out using props
